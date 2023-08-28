@@ -1,14 +1,14 @@
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/99462479?v=4" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Mr.VANNYA</h2>
+ <img width="100px" src="https://avatars.githubusercontent.com/u/48002918?v=4" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Mr.MAIYOURY</h2>
  <p align="center"></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vannya1212&label=Profile%20views&color=0e75b6&style=flat" alt="vannya1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maiyoury&label=Profile%20views&color=0e75b6&style=flat" alt="youry" /> </p>
 
 
-### Hi there 👋 I'm VANNYA. I make Youtube videos on Frontend Web Development. 
-My Youtube Channel <a href="https://www.youtube.com/@vannyakh">VANNYA Technology</a>
+### Hi there 👋 I'm MAIYOURY. I make Youtube videos on Frontend Web Development. 
+My Youtube Channel <a href="https://www.youtube.com/@MaiYouryOfficial">MaiYoury Official</a>
 You can subscribe this channel if you find it helpful.
 
 - 🔭 I’m currently working on ...HTML, CSS, JavaScript, jQuery, Tailwind, Bootstrap, Sass & PHP
@@ -16,15 +16,15 @@ You can subscribe this channel if you find it helpful.
 - 👯 I’m looking to collaborate on ...Frontend Devopment
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... HTML, CSS, JS, Bootstrap, SASS, PHP & LARAVEL
-- 📫 How to reach me: ...Youtube Channel: <a href="https://www.youtube.com/@vannyakh">VANNYA Technology</a>
+- 📫 How to reach me: ...Youtube Channel: <a href="https://www.youtube.com/@MaiYouryOfficial">MaiYoury Official</a>
 - 😄 Pronouns: ... HEHE
 - ⚡ Fun fact: ... I Love Classic Novels
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/VANNYAOfficial1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VANNYAOfficial1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vann-ya-899004267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vann-ya-899004267/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sovansoriya.sovansoriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sovansoriya.sovansoriya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/@vannyakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/@vannyakh" height="30" width="40" /></a>
+<a href="https://twitter.com/MaiYoury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MaiYouryOfficial" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mai-youry-35277a110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mai-youry-35277a110/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mai.youry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/maiyoury" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@MaiYouryOfficial/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@MaiYouryOfficial/featured" height="30" width="40" /></a>
 </p>
 - 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,11 +33,11 @@ You can subscribe this channel if you find it helpful.
 </p>
 
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vannya1212&langs_count=10&show_icons=true&locale=en&theme=radical" alt="hyatmyat4" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maiyoury&langs_count=10&show_icons=true&locale=en&theme=radical" alt="hyatmyat4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vannya1212&show_icons=true&locale=en&theme=radical" alt="hyatmyat4" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maiyoury&show_icons=true&locale=en&theme=radical" alt="hyatmyat4" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vannya1212&theme=radical" alt="hyatmyat4" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maiyoury&theme=radical" alt="hyatmyat4" /></p>
  
 
 
