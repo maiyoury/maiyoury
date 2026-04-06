@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">MAIYOURY</h1>
-<p align="center"><strong>Frontend Developer</strong> · Software Engineer · Content Creator</p>
-<p align="center">I ship accessible, fast UIs and teach web dev on YouTube.</p>
+<p align="center"><strong>Frontend Developer</strong> · Software Engineer</p>
+<p align="center">I ship accessible, fast UIs and share what I build online.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maiyoury&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -19,7 +19,7 @@ I’m **MAIYOURY** — I design and build **web interfaces** with a focus on **a
 | | |
 |:---|:---|
 | **Portfolio** | [portfolio-maiyoury.vercel.app](https://portfolio-maiyoury.vercel.app/) |
-| **YouTube** | [MaiYoury Official](https://www.youtube.com/@MaiYouryOfficial/featured) — frontend tutorials & learning |
+| **YouTube** | [MaiYoury Official](https://www.youtube.com/@MaiYouryOfficial/featured) |
 
 ---
 
@@ -63,9 +63,11 @@ JavaScript    58 mins               █░░░░░░░░░░░░░�
 
 ### GitHub activity
 
+*GitHub Readme Stats (`github-readme-stats.vercel.app`) is a third-party Vercel app; if it shows “deployment paused,” that host paused — not your repo. Stats-style info below uses [shields.io](https://shields.io/) badges instead.*
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maiyoury&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiyoury&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+  <a href="https://github.com/maiyoury"><img src="https://img.shields.io/github/followers/maiyoury?style=for-the-badge&logo=github&label=Followers&color=db44ad" alt="GitHub followers" /></a>
+  <a href="https://github.com/maiyoury?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaiyoury&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&color=db44ad" alt="Public repositories" /></a>
 </p>
 
 <p align="center">
@@ -76,15 +78,15 @@ JavaScript    58 mins               █░░░░░░░░░░░░░�
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiyoury&theme=radical&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
-*Charts load from public services — no repo workflows required.*
+*Streak & graph: third-party services (may be slow or unavailable sometimes).*
 
 ---
 
 ### Support
 
 - Star repos you find useful
-- Subscribe on **[YouTube](https://www.youtube.com/@MaiYouryOfficial/featured)**
-- Share projects or videos with others who might benefit
+- Follow **[YouTube](https://www.youtube.com/@MaiYouryOfficial/featured)** if you like
+- Share projects with others who might benefit
 
 ---
 
