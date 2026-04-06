@@ -34,11 +34,11 @@ I'm **MAIYOURY**. I make YouTube videos on **frontend web development**—tutori
 
 ### Languages & tools
 
-| **Frontend** | **Backend & data** | **Tools & more** |
-|---|---|---|
-| HTML · CSS · JavaScript · jQuery | PHP · Laravel | Git · GitHub |
-| Tailwind · Bootstrap · Sass | MySQL · MongoDB | VS Code · Postman |
-| React · Next.js | Node.js · Express | Firebase · Docker · AWS |
+| **Frontend** | **Backend** | **Tools** | **Others** |
+|---|---|---|---|
+| HTML · CSS · JavaScript | Node.js · Express | Git · GitHub | Java · Python |
+| React.js · Vue.js | Firebase · MongoDB | VS Code · Docker | C · C++ · C# |
+| Tailwind · Bootstrap · Sass | Flask · Django · Redis | Postman · AWS | Go · Swift · Linux |
 
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40" /></a>
