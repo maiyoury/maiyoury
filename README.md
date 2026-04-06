@@ -7,7 +7,7 @@
 <p align="center">I ship accessible, fast UIs and share what I build online.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maiyoury&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=maiyoury&label=Profile%20views&color=db44ad&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -16,8 +16,8 @@
 
 I’m **MAIYOURY** — I design and build **web interfaces** with a focus on **accessibility**, **performance**, and **maintainable** code. I work with **HTML**, **CSS**, and **JavaScript**, use **React** and **Vue** for component-driven UIs, and style with **Tailwind**, **Bootstrap**, and **Sass**. I integrate cleanly with **APIs** and backends so products stay fast and easy for teams to extend.
 
-| | |
-|:---|:---|
+| Resource | Link |
+|:---------|:-----|
 | **Portfolio** | [portfolio-maiyoury.vercel.app](https://portfolio-maiyoury.vercel.app/) |
 | **YouTube** | [MaiYoury Official](https://www.youtube.com/@MaiYouryOfficial/featured) |
 
@@ -25,10 +25,10 @@ I’m **MAIYOURY** — I design and build **web interfaces** with a focus on **a
 
 ### Focus now
 
-- **Building with:** Vue · React · TypeScript · Tailwind · Node.js · PHP · Laravel
+- **Building with:** Vue · uni-app · React · TypeScript · Tailwind · Node.js · PHP · Laravel
 - **Exploring:** Java · Python
 - **Open to:** Frontend collaboration and interesting UI challenges
-- **Ask me about:** HTML, CSS, JavaScript, Sass, Bootstrap, PHP, Laravel, or the modern web stack
+- **Ask me about:** HTML, CSS, JavaScript, Sass, Bootstrap, uni-app, PHP, Laravel, or the modern web stack
 - **Off keyboard:** Classic novels
 
 ---
@@ -38,12 +38,12 @@ I’m **MAIYOURY** — I design and build **web interfaces** with a focus on **a
 | **Frontend** | **Backend & data** | **Tooling** |
 |---|---|---|
 | HTML · CSS · JavaScript · TypeScript | Node.js · Express · Laravel | Git · GitHub · VS Code |
-| React · Vue · Vite | Firebase · MongoDB · Redis | Docker · Postman |
+| React · Vue · Vite · uni-app | Firebase · MongoDB · Redis | Docker · Postman |
 | Tailwind · Bootstrap · Sass | REST APIs · JSON | CI basics · AWS (basics) |
 
 ---
 
-### 📊 Weekly Development Breakdown
+### Weekly development
 
 <!--START_SECTION:waka-->
 
@@ -91,7 +91,7 @@ JavaScript    58 mins               █░░░░░░░░░░░░░�
 <p align="center">
   <a href="https://portfolio-maiyoury.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.youtube.com/@MaiYouryOfficial/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://twitter.com/MaiYoury"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://x.com/MaiYoury"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/mai-youry-35277a110/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/mai.youry/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
