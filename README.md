@@ -1,49 +1,45 @@
 <p align="center">
-  <img width="100px" src="https://avatars.githubusercontent.com/u/48002918?v=4" align="center" alt="MAIYOURY" />
-  <h2 align="center">Mr. MAIYOURY <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="" /></h2>
-  <p align="center">Frontend Developer · Software Engineer · Content Creator</p>
+  <img width="110" src="https://avatars.githubusercontent.com/u/48002918?v=4" alt="MAIYOURY" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=maiyoury&label=Profile%20views&color=0e75b6&style=flat" alt="maiyoury" />
+<h1 align="center">MAIYOURY</h1>
+<p align="center"><strong>Frontend Developer</strong> · Software Engineer · Content Creator</p>
+<p align="center">I ship accessible, fast UIs and teach web dev on YouTube.</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maiyoury&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 👋 Hi there!
+### About
 
-I'm **MAIYOURY**, a **frontend developer** who designs and ships web UIs with a focus on **accessibility**, **performance**, and **maintainable code**. I build with **HTML**, **CSS**, and **JavaScript**, using **React** and **Vue** for component-driven interfaces, **Tailwind**, **Bootstrap**, and **Sass** for styling, and clean integration with **APIs** and backend services so experiences stay fast, semantic, and easy for teams to extend.
+I’m **MAIYOURY** — I design and build **web interfaces** with a focus on **accessibility**, **performance**, and **maintainable** code. I work with **HTML**, **CSS**, and **JavaScript**, use **React** and **Vue** for component-driven UIs, and style with **Tailwind**, **Bootstrap**, and **Sass**. I integrate cleanly with **APIs** and backends so products stay fast and easy for teams to extend.
 
-**Portfolio:** [portfolio-maiyoury.vercel.app](https://portfolio-maiyoury.vercel.app/) — selected work and projects.
-
-I create **YouTube** videos on **Frontend Web Development** to help others learn and grow in tech.  
-🎥 **[MaiYoury Official](https://www.youtube.com/@MaiYouryOfficial/featured)** — feel free to **subscribe** and join the journey!
-
----
-
-### 🚀 What I Do
-
-- 🔭 **Currently Working On:** Vue.js, React.js, TypeScript, Tailwind, Node.js, PHP, Laravel & more.
-- 🌱 **Currently Learning:** Java · Python.
-- 👯 **Looking to Collaborate On:** Frontend development projects.
-- 💬 **Ask Me About:** HTML, CSS, JavaScript, Bootstrap, Sass, PHP, Laravel, or anything web-related!
-- ⚡ **Fun Fact:** I love reading classic novels.
+| | |
+|:---|:---|
+| **Portfolio** | [portfolio-maiyoury.vercel.app](https://portfolio-maiyoury.vercel.app/) |
+| **YouTube** | [MaiYoury Official](https://www.youtube.com/@MaiYouryOfficial/featured) — frontend tutorials & learning |
 
 ---
 
-### 🛠️ Languages & Tools
+### Focus now
 
-| **Frontend** | **Backend** | **Tools** | **Others** |
-|---|---|---|---|
-| HTML · CSS · JavaScript | Node.js · Express | Git · GitHub | Java · Python |
-| React.js · Vue.js | Firebase · MongoDB | VS Code · Docker | C · C++ · C# |
-| Tailwind · Bootstrap · Sass | Flask · Django · Redis | Postman · AWS | Go · Swift · Linux |
+- **Building with:** Vue · React · TypeScript · Tailwind · Node.js · PHP · Laravel
+- **Exploring:** Java · Python
+- **Open to:** Frontend collaboration and interesting UI challenges
+- **Ask me about:** HTML, CSS, JavaScript, Sass, Bootstrap, PHP, Laravel, or the modern web stack
+- **Off keyboard:** Classic novels
 
 ---
 
-### 🔥 Streak Stats
+### Stack
 
-<img src="https://streak-stats.demolab.com?user=maiyoury&theme=radical&border_radius=6&card_width=500" alt="Contribution streak — maiyoury" />
+| **Frontend** | **Backend & data** | **Tooling** |
+|---|---|---|
+| HTML · CSS · JavaScript · TypeScript | Node.js · Express · Laravel | Git · GitHub · VS Code |
+| React · Vue · Vite | Firebase · MongoDB · Redis | Docker · Postman |
+| Tailwind · Bootstrap · Sass | REST APIs · JSON | CI basics · AWS (basics) |
 
 ---
 
@@ -65,32 +61,41 @@ JavaScript    58 mins               █░░░░░░░░░░░░░�
 
 ---
 
-### 🐍 Contribution Snake
+### GitHub activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maiyoury/maiyoury/raw/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/maiyoury/maiyoury/raw/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://github.com/maiyoury/maiyoury/raw/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maiyoury&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiyoury&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maiyoury&theme=radical&border_radius=8&card_width=500&hide_border=true" alt="Contribution streak" />
+</p>
 
-### 🌟 Support My Work
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiyoury&theme=radical&hide_border=true&area=true" alt="Contribution activity graph" />
+</p>
 
-- ⭐ Star my GitHub repositories if you find them useful
-- 📺 Subscribe to **[MaiYoury Official](https://www.youtube.com/@MaiYouryOfficial/featured)** on YouTube
-- 🔁 Share my projects or videos with others who might benefit
-
----
-
-### 📫 Reach Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-maiyoury.vercel.app/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MaiYouryOfficial/featured)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MaiYoury)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-youry-35277a110/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mai.youry/)
+*Charts load from public services — no repo workflows required.*
 
 ---
 
-<p align="center"><i>Let's build something amazing together!</i> 🚀</p>
+### Support
+
+- Star repos you find useful
+- Subscribe on **[YouTube](https://www.youtube.com/@MaiYouryOfficial/featured)**
+- Share projects or videos with others who might benefit
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://portfolio-maiyoury.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.youtube.com/@MaiYouryOfficial/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://twitter.com/MaiYoury"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/mai-youry-35277a110/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/mai.youry/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
+<p align="center"><i>Let’s build something great together.</i></p>
