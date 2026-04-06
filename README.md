@@ -7,7 +7,7 @@
 <p align="center">I ship accessible, fast UIs and share what I build online.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maiyoury&label=Profile%20views&color=db44ad&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=maiyoury&label=Profile%20views&color=4493f8&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -64,16 +64,16 @@ JavaScript    58 mins               █░░░░░░░░░░░░░�
 ### GitHub activity
 
 <p align="center">
-  <a href="https://github.com/maiyoury"><img src="https://img.shields.io/github/followers/maiyoury?style=for-the-badge&logo=github&label=Followers&color=db44ad" alt="GitHub followers" /></a>
-  <a href="https://github.com/maiyoury?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaiyoury&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&color=db44ad" alt="Public repositories" /></a>
+  <a href="https://github.com/maiyoury"><img src="https://img.shields.io/github/followers/maiyoury?style=for-the-badge&logo=github&label=Followers&color=4493f8" alt="GitHub followers" /></a>
+  <a href="https://github.com/maiyoury?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaiyoury&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&color=4493f8" alt="Public repositories" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maiyoury&theme=dracula&border_radius=10&card_width=500&hide_border=true" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=maiyoury&theme=transparent&hide_border=true&border_radius=10&card_width=500&background=0d1117&ring=4493f8&fire=4493f8&currStreakLabel=4493f8&currStreakNum=4493f8&sideNums=4493f8&sideLabels=4493f8&dates=4493f8" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiyoury&theme=dracula&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiyoury&bg_color=0d1117&color=4493f8&line=4493f8&point=4493f8&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ JavaScript    58 mins               █░░░░░░░░░░░░░�
 ### Connect
 
 <p align="center">
-  <a href="https://portfolio-maiyoury.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-maiyoury.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4493f8?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.youtube.com/@MaiYouryOfficial/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://x.com/MaiYoury"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/mai-youry-35277a110/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
