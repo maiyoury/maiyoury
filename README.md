@@ -63,22 +63,18 @@ JavaScript    58 mins               █░░░░░░░░░░░░░�
 
 ### GitHub activity
 
-*GitHub Readme Stats (`github-readme-stats.vercel.app`) is a third-party Vercel app; if it shows “deployment paused,” that host paused — not your repo. Stats-style info below uses [shields.io](https://shields.io/) badges instead.*
-
 <p align="center">
   <a href="https://github.com/maiyoury"><img src="https://img.shields.io/github/followers/maiyoury?style=for-the-badge&logo=github&label=Followers&color=db44ad" alt="GitHub followers" /></a>
   <a href="https://github.com/maiyoury?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaiyoury&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&color=db44ad" alt="Public repositories" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maiyoury&theme=radical&border_radius=8&card_width=500&hide_border=true" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=maiyoury&theme=dracula&border_radius=10&card_width=500&hide_border=true" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiyoury&theme=radical&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiyoury&theme=dracula&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
-
-*Streak & graph: third-party services (may be slow or unavailable sometimes).*
 
 ---
 
