@@ -76,6 +76,15 @@ JavaScript    58 mins               █░░░░░░░░░░░░░�
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiyoury&bg_color=0d1117&color=4493f8&line=4493f8&point=4493f8&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/maiyoury/maiyoury/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/maiyoury/maiyoury/output/github-snake.svg"
+         alt="Contribution snake" />
+  </picture>
+</p>
+
 ---
 
 ### Support
